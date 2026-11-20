@@ -1,10 +1,14 @@
 # Wayline
 
-**English**
+[English](#english) | [Русский](#русский)
+
+---
+
+## English
 
 A waypoint editor for JSON files. Load a file, sort the route, fix the points, save.
 
-## Download
+### Download
 
 1. Open the [latest release](https://github.com/torsheraa/wayline/releases/latest)
 2. Download `Wayline-<version>-win64-setup.exe`
@@ -13,7 +17,7 @@ A waypoint editor for JSON files. Load a file, sort the route, fix the points, s
 **Requirements:** Windows 64-bit.
 The program installs into your user profile, so no administrator rights are needed. The installer is available in English and Russian.
 
-## What it can do
+### What it can do
 
 - **Import and export JSON**, with a quick open of the latest file from your remembered folder
 - **Route sorting** with several algorithms (nearest neighbour, 2-opt, 3-opt, Or-opt, ILS and others)
@@ -26,7 +30,7 @@ The program installs into your user profile, so no administrator rights are need
 - **Top view (XZ)** with zoom and point selection
 - **12 themes**, English and Russian interface, undo/redo
 
-### Hotkeys
+#### Hotkeys
 
 | Key | Action |
 |---|---|
@@ -38,7 +42,7 @@ The program installs into your user profile, so no administrator rights are need
 
 Settings are stored in `wayline_settings.json` next to the program and are kept when you update.
 
-## Updates
+### Updates
 
 Wayline checks for new versions on startup (you can turn this off in the **Help** menu). When a new version is available, a ● mark appears next to **Help**. Open **Help** and choose the update item: the program downloads the installer, verifies its checksum, installs the update and starts the new version.
 
@@ -46,7 +50,7 @@ You can also check manually with **Help → Check for updates**.
 
 Save your work before updating: the program restarts, and unsaved changes are lost.
 
-## Windows warnings
+### Windows warnings
 
 Wayline is a new program and is not code-signed yet, so Windows SmartScreen or an antivirus may show a warning when you run the installer.
 
@@ -55,28 +59,26 @@ Wayline is a new program and is not code-signed yet, so Windows SmartScreen or a
 
 If you have problems, write to me (contacts below).
 
-## License
+### License
 
 Copyright (c) 2026 elis. All rights reserved.
 Copying, editing and redistribution of the program or its code are prohibited without written permission of the author.
 
-## Contacts and support
+### Contacts and support
 
 - Telegram: [@elis_uwu](https://t.me/elis_uwu)
 - Discord: [elis.uwu](https://discord.com/users/1113476203316265000)
 - Support the author: [FunPay](https://funpay.com/users/6174324/)
 
-Found a bug or have an idea? message me!
+Found a bug or have an idea? Message me!
 
+---
 
-
-# Wayline
-
-**Русский**
+## Русский
 
 Редактор путевых точек для JSON-файлов. Загрузил файл, отсортировал путь, поправил точки, сохранил.
 
-## Скачать
+### Скачать
 
 1. Откройте [последний релиз](https://github.com/torsheraa/wayline/releases/latest)
 2. Скачайте `Wayline-<версия>-win64-setup.exe`
@@ -85,7 +87,7 @@ Found a bug or have an idea? message me!
 **Требования:** Windows 64-bit.
 Программа ставится в профиль пользователя, права администратора не нужны. Установщик на русском и английском.
 
-## Что умеет
+### Что умеет
 
 - **Импорт и экспорт JSON**, быстрое открытие последнего файла из запомненной папки
 - **Сортировка пути** несколькими алгоритмами (nearest neighbour, 2-opt, 3-opt, Or-opt, ILS и другие)
@@ -98,7 +100,7 @@ Found a bug or have an idea? message me!
 - **Вид сверху (XZ)** с зумом и выбором точек
 - **12 тем**, русский и английский интерфейс, undo/redo
 
-### Горячие клавиши
+#### Горячие клавиши
 
 | Клавиши | Действие |
 |---|---|
@@ -110,7 +112,7 @@ Found a bug or have an idea? message me!
 
 Настройки лежат в `wayline_settings.json` рядом с программой и при обновлении сохраняются.
 
-## Обновления
+### Обновления
 
 Wayline проверяет новые версии при запуске (это можно выключить в меню «Справка»). Если вышла новая версия, рядом с меню «Справка» появляется метка ●. Откройте «Справка» и выберите пункт обновления: программа скачает установщик, сверит контрольную сумму, установит обновление и запустит новую версию.
 
@@ -118,7 +120,7 @@ Wayline проверяет новые версии при запуске (это
 
 Перед обновлением сохраните работу: программа перезапускается, и несохранённые изменения теряются.
 
-## Предупреждения Windows
+### Предупреждения Windows
 
 Wayline новая программа и пока не подписана сертификатом, поэтому Windows SmartScreen или антивирус могут показать предупреждение при запуске установщика.
 
@@ -127,15 +129,15 @@ Wayline новая программа и пока не подписана сер
 
 Если возникнут проблемы, напишите мне (контакты ниже).
 
-## Лицензия
+### Лицензия
 
 © 2026 elis. Все права защищены.
 Копирование, редактирование и распространение программы или её кода запрещены без письменного разрешения автора.
 
-## Контакты и поддержка
+### Контакты и поддержка
 
 - Telegram: [@elis_uwu](https://t.me/elis_uwu)
 - Discord: [elis.uwu](https://discord.com/users/1113476203316265000)
 - Поддержать автора: [FunPay](https://funpay.com/users/6174324/)
 
-Нашли ошибку или есть идея? напишите мне!
+Нашли ошибку или есть идея? Напишите мне!
